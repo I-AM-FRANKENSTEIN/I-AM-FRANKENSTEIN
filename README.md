@@ -1,4 +1,6 @@
-### Hi, I'm Frankenstein <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+## Hi, I'm Frankenstein <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<img align="right" src="https://media.giphy.com/media/PjUyVDC4xLP03ozQrN/giphy.gif" width="400px">
 <br>
 
 - 🔭 I’m currently working on 
@@ -36,8 +38,11 @@
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=I-AM-FRANKENSTEIN&&show_icons=true&title_color=151515&icon_color=00FF7F&text_color=000000&bg_color=ffffff">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=I-AM-FRANKENSTEIN&&show_icons=true&title_color=151515&icon_color=00FF7F&text_color=000000&bg_color=ffffff">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact)
-
+<img align="left" src="https://media.giphy.com/media/8Lc5xmvzRhlLy/giphy.gif width="200px">
+<br>
+<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact">
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=I-AM-FRANKENSTEIN&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
