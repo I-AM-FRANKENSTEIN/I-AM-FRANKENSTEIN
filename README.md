@@ -39,7 +39,11 @@
 <br>
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact">
-<img src="https://media.giphy.com/media/8Lc5xmvzRhlLy/giphy.gif">
+<img align="left" src="https://media.giphy.com/media/8Lc5xmvzRhlLy/giphy.gif">
+<br>
+<br>
+<br>
+<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=I-AM-FRANKENSTEIN&&show_icons=true&title_color=151515&icon_color=00FF7F&text_color=000000&bg_color=ffffff">
 <br>
 <br>
@@ -50,16 +54,6 @@
 <br>
 <br>
 <Br>
-  
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=I-AM-FRANKENSTEIN&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
