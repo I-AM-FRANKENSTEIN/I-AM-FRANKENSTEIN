@@ -38,6 +38,10 @@
 <br>
 <br>
 <br>
+<img src="https://media.giphy.com/media/8Lc5xmvzRhlLy/giphy.gif">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact">
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=I-AM-FRANKENSTEIN&&show_icons=true&title_color=151515&icon_color=00FF7F&text_color=000000&bg_color=ffffff">
 <br>
 <br>
@@ -49,7 +53,7 @@
 <br>
 <Br>
   
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact">
+
 
 <br>
 <br>
