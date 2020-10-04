@@ -38,8 +38,8 @@
 <br>
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact">
-<img align="left" src="https://media.giphy.com/media/8Lc5xmvzRhlLy/giphy.gif" width="500px" height="250px">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact">
+
 <br>
 <br>
 <br>
