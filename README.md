@@ -36,7 +36,7 @@
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=I-AM-FRANKENSTEIN&&show_icons=true&title_color=ffffff&icon_color=00FF7F&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=I-AM-FRANKENSTEIN&&show_icons=true&title_color=151515&icon_color=00FF7F&text_color=000000&bg_color=ffffff">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact)
 
