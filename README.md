@@ -58,9 +58,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=I-AM-FRANKENSTEIN&&show_icons=true&title_color=151515&icon_color=00FF7F&text_color=000000&bg_color=ffffff" height="215px">
 <br>
 <br>
@@ -76,8 +74,6 @@
 <br>
 <br>
 <img align="right" width="250px" src="https://camo.githubusercontent.com/f991b3432f988f2fe400e8134cdbeccc72d3e668/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d3373526c393931582d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f74656e7461636c65732e67696625334672617725334474727565">
-<br>
-<br>
 <br>
 <br>
 <br>
