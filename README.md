@@ -4,7 +4,6 @@
 <img width="250px" src="https://thumbs.gfycat.com/ValidPitifulGnu-size_restricted.gif">
 </p>
 <img align="left" width="400px" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
-<br>
 
 ## Hi, I'm FRANKENSTEIN
 <br>
