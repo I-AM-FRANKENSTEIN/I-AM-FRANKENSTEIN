@@ -4,11 +4,10 @@
 <img width="250px" src="https://thumbs.gfycat.com/ValidPitifulGnu-size_restricted.gif">
 </p>
 <br>
-
+<img align="left" width="300px" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
 
 ## Hi, I'm FRANKENSTEIN
 <br>
-<p align="center">
 
 - 🔭 I’m currently working on       : Github
 - 🌱 I’m currently learning         : Coding & Development
@@ -16,8 +15,7 @@
 - 🤔 I’m looking for help with      : Mentorship
 - 💬 Ask me about                   : My Interests & Hobbies
 - 😄 Pronouns                       : Frankenstein, Ronin
-<img width="300px" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
-</p>
+
 
 ## Connect with me:
 <img align="left" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
