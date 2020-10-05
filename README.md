@@ -1,6 +1,6 @@
 ## Hi, I'm Frankenstein <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<img align="right" width="300px" src="https://www.coredna.com/web_images/What-is-Git.gif">
+<img align="right" width="300px" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
 <br>
 
 - 🔭 I’m currently working on 
@@ -60,6 +60,7 @@
 <br>
 <br>
 <br>
+<img align="right" width="250px" src="https://camo.githubusercontent.com/f991b3432f988f2fe400e8134cdbeccc72d3e668/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d3373526c393931582d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f74656e7461636c65732e67696625334672617725334474727565">
 <br>
 <br>
 
