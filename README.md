@@ -9,7 +9,6 @@
 ## Hi, I'm FRANKENSTEIN
 <br>
 <p align="center">
-<img width="300px" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
 
 - 🔭 I’m currently working on       : Github
 - 🌱 I’m currently learning         : Coding & Development
@@ -17,6 +16,7 @@
 - 🤔 I’m looking for help with      : Mentorship
 - 💬 Ask me about                   : My Interests & Hobbies
 - 😄 Pronouns                       : Frankenstein, Ronin
+<img width="300px" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
 </p>
 
 ## Connect with me:
