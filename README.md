@@ -53,7 +53,7 @@
 <img align="left" alt="C sharp" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
 <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
 <img align="left" width="30px" src="https://colab.research.google.com/img/colab_favicon_256px.png">
-<img align="left" alt="C sharp" width="30px" src="https://img.icons8.com/plasticine/100/000000/canva.png" />
+<img align="left" alt="C sharp" width="30px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=1024" />
 <img align="left" width="30px" src="https://lh3.googleusercontent.com/proxy/dbX96pLWH6KV7tyxHvoAq5voRhBKlKWrvjzOxV5OYyW9o2waCfBwHtA5RF0LEqdOoqj7HJs3T4r07HLNtZz5Kl0w21cgGy0aLog8_41C1SQYroG37hY">
 <br>
 <br>
