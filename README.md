@@ -1,7 +1,7 @@
 <p align="center">
-<img align="left" width="250px"src="https://thumbs.gfycat.com/ValidPitifulGnu-size_restricted.gif">
+<img width="250px"src="https://thumbs.gfycat.com/ValidPitifulGnu-size_restricted.gif">
 <img width="250px" src="https://i.pinimg.com/originals/df/16/bf/df16bf2d5be8cd64c3d10e685babec22.gif">
-<img align="right" width="250px" src="https://thumbs.gfycat.com/ValidPitifulGnu-size_restricted.gif">
+<img width="250px" src="https://thumbs.gfycat.com/ValidPitifulGnu-size_restricted.gif">
 </p>
 <br>
 <br>
