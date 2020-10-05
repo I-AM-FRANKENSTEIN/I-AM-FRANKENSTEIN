@@ -16,7 +16,6 @@
 - 🤔 I’m looking for help with      : Mentorship
 - 💬 Ask me about                   : My Interests & Hobbies
 - 😄 Pronouns                       : Frankenstein, Ronin
-- 🧠  Quote                         : while(!succeed=try());
 
 <br>
 
