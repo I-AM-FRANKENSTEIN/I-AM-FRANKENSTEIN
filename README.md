@@ -1,7 +1,6 @@
 
 ## Hi, I'm Frankenstein <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <br>
-
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,10 +9,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<br>
+
 ## Connect with me:
 <img align="left" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+<br>
 <br>
 
 ## My work:
@@ -21,6 +23,7 @@
 <img align="left" alt="Codepen" width="30px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
 <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
 
+<br>
 <br>
 
 ## Languages and Tools:
