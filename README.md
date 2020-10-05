@@ -53,13 +53,16 @@
 <img align="left" alt="C sharp" width="30px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=1024" />
 <img align="left" width="30px" src="https://lh3.googleusercontent.com/proxy/dbX96pLWH6KV7tyxHvoAq5voRhBKlKWrvjzOxV5OYyW9o2waCfBwHtA5RF0LEqdOoqj7HJs3T4r07HLNtZz5Kl0w21cgGy0aLog8_41C1SQYroG37hY">
 <br>
+<br>
+<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact" >
+
 <img  src="https://github-readme-stats.vercel.app/api?username=I-AM-FRANKENSTEIN&&show_icons=true&title_color=151515&icon_color=00FF7F&text_color=000000&bg_color=ffffff" height="175px">
 </p>
 <br>
 <p align="center">
 <img width="150px" src="https://camo.githubusercontent.com/f991b3432f988f2fe400e8134cdbeccc72d3e668/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d3373526c393931582d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f74656e7461636c65732e67696625334672617725334474727565">
-
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=I-AM-FRANKENSTEIN&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
