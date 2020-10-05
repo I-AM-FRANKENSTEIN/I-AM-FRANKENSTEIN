@@ -4,10 +4,10 @@
 <img width="250px" src="https://thumbs.gfycat.com/ValidPitifulGnu-size_restricted.gif">
 </p>
 <br>
-
-
+<p align="center">
 <img align="right" width="300px" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
 <br>
+</p>
 
 ## Hi, I'm FRANKENSTEIN
 <br>
