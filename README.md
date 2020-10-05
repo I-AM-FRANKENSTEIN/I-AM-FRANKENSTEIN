@@ -14,9 +14,9 @@
 <img align="left" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-<img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png" />
 
-<br>
+## My work:
+<img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 <br>
 
 ## Languages and Tools:
