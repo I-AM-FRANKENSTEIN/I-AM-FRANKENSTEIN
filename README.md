@@ -19,6 +19,8 @@
 ## My work:
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 <img align="left" alt="Codepen" width="30px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
+<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
+
 <br>
 
 ## Languages and Tools:
@@ -34,6 +36,8 @@
 <img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Dart Programming" width="30px" src="https://img.icons8.com/color/48/000000/dart.png" />
 <img align="left" alt="C sharp" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+<img align="left" width="30px" src="https://colab.research.google.com/img/colab_favicon_256px.png">
 <img align="left" alt="C sharp" width="30px" src="https://img.icons8.com/plasticine/100/000000/canva.png" />
 <br>
 <br>
