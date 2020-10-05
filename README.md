@@ -1,5 +1,6 @@
 ## Hi, I'm Frankenstein <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-<img align="right" width="300px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+
+<img align="right" width="300px" src="https://www.coredna.com/web_images/What-is-Git.gif">
 <br>
 
 - 🔭 I’m currently working on 
