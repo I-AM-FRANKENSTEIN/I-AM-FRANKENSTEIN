@@ -14,9 +14,11 @@
 <img align="left" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+<br>
 
 ## My work:
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+<img align="left" alt="Codepen" width="30px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
 <br>
 
 ## Languages and Tools:
@@ -31,7 +33,6 @@
 <img align="left" alt="C++ Programming" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Dart Programming" width="30px" src="https://img.icons8.com/color/48/000000/dart.png" />
-<img align="left" alt="Codepen" width="30px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
 <img align="left" alt="C sharp" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
 <img align="left" alt="C sharp" width="30px" src="https://img.icons8.com/plasticine/100/000000/canva.png" />
 <br>
