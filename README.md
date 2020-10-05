@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200px" src="https://i.pinimg.com/originals/df/16/bf/df16bf2d5be8cd64c3d10e685babec22.gif">
+<img width="250px" src="https://i.pinimg.com/originals/df/16/bf/df16bf2d5be8cd64c3d10e685babec22.gif">
 </p>
 
 ## Hi, I'm FRANKENSTEIN <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
