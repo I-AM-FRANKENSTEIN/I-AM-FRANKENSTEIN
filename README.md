@@ -1,6 +1,6 @@
 ## Hi, I'm Frankenstein <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<img align="right" width="300px" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
+<img align="right" width="400px" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
 <br>
 
 - 🔭 I’m currently working on 
