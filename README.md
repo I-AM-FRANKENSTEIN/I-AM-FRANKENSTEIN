@@ -5,7 +5,9 @@
 </p>
 <br>
 
-## Hi, I'm FRANKENSTEIN <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<p align="center">
+<h1>Hi, I'm FRANKENSTEIN</h1> 
+</p>
 <img align="right" width="400px" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
 <br>
 
