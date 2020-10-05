@@ -5,12 +5,10 @@
 </p>
 <br>
 
-<p align="center">
-<h1>Hi, I'm FRANKENSTEIN</h1> 
-</p>
+## Hi, I'm FRANKENSTEIN
+
 <img align="right" width="400px" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
 <br>
-
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
@@ -27,6 +25,7 @@
 <img align="left" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+
 <br>
 <br>
 
@@ -34,6 +33,7 @@
 <img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 <img align="left" alt="Codepen" width="30px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
 <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
+<img align="left" width="30px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png">
 
 <br>
 <br>
@@ -54,6 +54,7 @@
 <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
 <img align="left" width="30px" src="https://colab.research.google.com/img/colab_favicon_256px.png">
 <img align="left" alt="C sharp" width="30px" src="https://img.icons8.com/plasticine/100/000000/canva.png" />
+<img align="left" width="30px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png">
 <br>
 <br>
 <br>
