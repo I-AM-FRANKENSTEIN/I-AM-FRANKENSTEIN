@@ -19,7 +19,6 @@
 - 💬 Ask me about                   : My Interests & Hobbies
 - 😄 Pronouns                       : Frankenstein, Ronin
 
-<br>
 
 ## Connect with me:
 <img align="left" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
