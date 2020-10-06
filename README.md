@@ -63,8 +63,6 @@
 <img alt="C sharp" width="30px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=1024" />
 </p>
 <br>
-<br>
-<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact" >
 <img width= "300px" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
