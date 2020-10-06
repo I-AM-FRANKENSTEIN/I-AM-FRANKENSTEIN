@@ -62,12 +62,9 @@
 <img alt="Codepen" width="30px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
 <img alt="C sharp" width="30px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=1024" />
 </p>
-<br>
-<br>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact" >
-<img width= "300px" src="https://www.intelligentvc.co.uk/wp-content/uploads/2015/11/animat-barchart-color.gif">
+<img width= "300px" src="https://media1.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47wujkabe0y0wxk7vv10vya48bk0x5iu2ultnrfkxk&rid=giphy.gif">
 <br>
 <br>
 <br>
