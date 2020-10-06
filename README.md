@@ -1,8 +1,8 @@
-<pre>
+<p align="center>
 <img width="250px"src="https://thumbs.gfycat.com/ValidPitifulGnu-size_restricted.gif">
 <img width="250px" src="https://i.pinimg.com/originals/df/16/bf/df16bf2d5be8cd64c3d10e685babec22.gif">
 <img width="250px" src="https://thumbs.gfycat.com/ValidPitifulGnu-size_restricted.gif">
-</pre>
+</p>
 <img align="left" width="390px" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
 <br>
 <br>
