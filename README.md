@@ -64,7 +64,8 @@
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact" >
-<img width= "300px" src="https://media1.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47wujkabe0y0wxk7vv10vya48bk0x5iu2ultnrfkxk&rid=giphy.gif">
+<img align="right" width= "500px" src="https://media1.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47wujkabe0y0wxk7vv10vya48bk0x5iu2ultnrfkxk&rid=giphy.gif">
+<br>
 <br>
 <br>
 <br>
