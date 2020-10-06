@@ -64,11 +64,11 @@
 </p>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact" >
+<img width= "300px" src="https://www.intelligentvc.co.uk/wp-content/uploads/2015/11/animat-barchart-color.gif">
+<br>
 <br>
 <br>
 <img width="260px" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"> 
