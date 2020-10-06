@@ -31,21 +31,21 @@
 <img align="left" alt="Codepen" width="30px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
 <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
 <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/gitlab.png">
-
 <br>
 <br>
 
 ## Languages:
-
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" /> 
-<img align="left" alt="C Programming" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img align="left" alt="C++ Programming" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img align="left" alt="Dart Programming" width="30px" src="https://img.icons8.com/color/48/000000/dart.png" />
-<img align="left" alt="Csharp" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+<p align="center">
+<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" /> 
+<img alt="C Programming" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img alt="C++ Programming" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img alt="Dart Programming" width="30px" src="https://img.icons8.com/color/48/000000/dart.png" />
+<img alt="Csharp" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+</p>
 <br>
 <br>
 
