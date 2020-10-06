@@ -19,18 +19,21 @@
 <br>
 
 ## Connect with me:
-<img align="left" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
-<img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-<img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-
+<p align="center">
+<img width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
+<img width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+<img width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</p>
 <br>
 <br>
 
 ## My work:
-<img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
-<img align="left" alt="Codepen" width="30px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
-<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
-<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/gitlab.png">
+<p align="center">
+<img width="30px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+<img width="30px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
+<img width="30px" src="https://img.icons8.com/color/48/000000/gitlab.png">
+</p>
 <br>
 <br>
 
@@ -50,16 +53,18 @@
 <br>
 
 ## Tools:
-<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
-<img align="left" width="30px" src="https://img.icons8.com/officel/40/000000/java-eclipse.png" />
-<img align="left" width="30px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/04e507cc-4c35-44f5-814b-96b04937d5e9/dz2gp2-625ed5b3-fc9c-43f3-ba05-9942eda68f11.png">
-<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/gitlab.png">
-<img align="left" width="30px" src="https://avatars2.githubusercontent.com/u/33467679?s=400&v=4g">
-<img align="left" alt="Codepen" width="30px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
-<img align="left" alt="C sharp" width="30px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=1024" />
+<p align="center">
+<img alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+<img width="30px" src="https://img.icons8.com/officel/40/000000/java-eclipse.png" />
+<img width="30px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/04e507cc-4c35-44f5-814b-96b04937d5e9/dz2gp2-625ed5b3-fc9c-43f3-ba05-9942eda68f11.png">
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+<img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img width="30px" src="https://img.icons8.com/color/48/000000/gitlab.png">
+<img width="30px" src="https://avatars2.githubusercontent.com/u/33467679?s=400&v=4g">
+<img alt="Codepen" width="30px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
+<img alt="C sharp" width="30px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=1024" />
+</p>
 <br>
 <br>
 <br>
