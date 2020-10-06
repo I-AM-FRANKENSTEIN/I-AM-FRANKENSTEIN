@@ -47,11 +47,13 @@
 <img align="left" alt="C++ Programming" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Dart Programming" width="30px" src="https://img.icons8.com/color/48/000000/dart.png" />
-<img align="left" alt="C sharp" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+<img align="left" alt="Csharp" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
 <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
 <img align="left" width="30px" src="https://avatars2.githubusercontent.com/u/33467679?s=400&v=4g">
 <img align="left" alt="C sharp" width="30px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=1024" />
 <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/gitlab.png">
+<img align="left" width="30px" src="https://img.icons8.com/officel/40/000000/java-eclipse.png" />
+<img align="left" width="30px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/04e507cc-4c35-44f5-814b-96b04937d5e9/dz2gp2-625ed5b3-fc9c-43f3-ba05-9942eda68f11.png">
 <br>
 <br>
 <br>
@@ -59,7 +61,6 @@
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-FRANKENSTEIN&hide=TeX&layout=compact" >
-
 <img  src="https://github-readme-stats.vercel.app/api?username=I-AM-FRANKENSTEIN&&show_icons=true&title_color=151515&icon_color=00FF7F&text_color=000000&bg_color=ffffff" height="175px">
 </p>
 <br>
