@@ -61,6 +61,7 @@
 <img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img width="35px" src="https://img.icons8.com/color/48/000000/gitlab.png"> <img width="30px" src="https://avatars2.githubusercontent.com/u/33467679?s=400&v=4g">
 <img alt="Codepen" width="35px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
+<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png">
 <img alt="C sharp" width="35px" src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=1024" />
 </p>
 <br>
