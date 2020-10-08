@@ -32,6 +32,7 @@
 <img width="35px" src="https://img.icons8.com/fluent/48/000000/github.png"/> <img width="30px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png" />
 <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
 <img width="35px" src="https://img.icons8.com/color/48/000000/gitlab.png">
+<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png">
 </p>
 <br>
 <br>
